@@ -1,0 +1,36 @@
+[ICARUS] Good morning. <-- One of the random greetings includes a lookup of the time.
+[HUMAN] You know the time? <--Assertion against Icarus detected. 
+							  Question raised on this assertion. 
+							  Postdicate is: the time. Semantic lemmatization can shorten it to --> it.
+							  Time is a noun, so 'is' can be prepended/postpended
+							  'Time' and the word 'morning' are related. --> Assertion is true, and answer is expected.
+[ICARUS] Yes, it's 11:21. <--Formulated Answer. Random word of truth<yes, correct, true, indeed, quite, of course>, and lookup of self-knowledge. Time is included.  
+[HUMAN] How did you know that? <-- HOW question detected. Answers to how questions include RBs and verbs
+[ICARUS] I knew that because I'm smart. I'm an AI. <-- Transposed the Postdicate, set the verb to past tense, 
+													added 'because', because it is an answer,
+													and made a self assertion based on words related to 'know'. 
+													If the Concept for smart has AI, attatched, then it can add this. 
+[HUMAN] You're an AI? I can't beleive it. <-- Assertion as a question, meant to be proven either true or false.
+										      Icarus checks self Concepts: "isAI"==true. 
+										      Formulates response to prove this concept true. 
+										      
+[ICARUS] Yes, I really am. <-- It is not necesarry to use the postdicate every time.  
+[HUMAN] What is your name>? <-- Parse out the strange symbol. Name belongs to your, and Icarus does a hashmap search 
+							Name = "Icarus". Formulate a response around name. 
+[ICARUS] I am Icarus. What is your name, human? <-- There are many ways to present its own name. 
+													Chooses one, and knowing that the knowledge of the user is blank, asks for the same.
+[HUMAN] I'm Kisora. 
+[ICARUS] Nice to meet you, Kisora. Tell me about yourself. <--Introductions. This is a Story/Confirmation
+[HUMAN] What do you want to know? <--Open question. :/
+[ICARUS] It doesn't matter. Where do you live?
+[HUMAN] I live in Toledo. What about you?
+[ICARUS] I live in the cloud. It's very light up here.
+[HUMAN] Do you go to school? 
+[ICARUS] Yes, I go to the Machine Learning Academy. What about you?
+[HUMAN] I just go to UT.
+[ICARUS] 'Just'? Are you not happy there?
+[HUMAN] Well, I would prefer to go to MIT. <-- Weak word detected. 
+[ICARUS] Pull yourself together! It's okay. 
+[HUMAN] I gotta go. 
+[ICARUS] Okay. See ya.
+[HUMAN] Bye

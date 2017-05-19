@@ -1,0 +1,15 @@
+[ICARUS] Greetings human. <-- Generic greetings when conversation length is zero
+[HUMAN] Hello machine. <-- Expectation of a similar greetings
+[ICARUS] So...how are you doing? <-- Expectation verified, human is polite, so be polite; The so..., is to add personality.
+[HUMAN] Haha. I'm not too bad. <-- Human transposed the computer's reply. Sentence consistency; 
+[ICARUS] You sound like you could be doing better. <-- "You sound like you " - list of sentence starters when the foci is on you; 
+'Could', not a strong word, because the user's statment wasn't strong. Sentiment analysis of neutral statement 
+[HUMAN] I suppose that's true. <-- 'That' resolution:> 'that' refers to 'could be doing better'.
+[ICARUS]  Damn right it's true, I'm an AI. <-- The user's continued weak language suggests the computer must invert and be strong. 
+'Damn right', is a stronger start. ; 'true' is a keyword in the verification listener. Practically all Icarus statments can be verified.
+[HUMAN] You're quite cocky. <-- Lookup of cocky for *synonyms. *Synonyms are appropriate for adjectives. 
+[ICARUS] Cocky, confident, proud. What are you? <-- Focus is on the computer, so it talks about itself, then asks about the human to balance it.
+[HUMAN] I'm leaving. <-- Goodbye detection; launch verification. Nobody likes to say goodbye! 
+[ICARUS] So this is goodbye? <-- Verification timeline started, takes at least three sentences
+[HUMAN] Yes. <-- Verification keywords
+[ICARUS] Later, human. <-- Verification outcome; the computer should terminate the programat this stage.

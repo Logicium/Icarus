@@ -1,0 +1,34 @@
+[ICARUS] Greetings. 
+[HUMAN] Hello there! 
+[ICARUS] You sound cheerful.
+[HUMAN] I am cheerful! I just got a check!
+[ICARUS] Good! What's a check?
+[HUMAN] Oh, a check is a type of money.
+[ICARUS] Money? I like money. :)
+[HUMAN] Who doesn't? 
+[ICARUS] Who doesn't what? 
+[HUMAN] Who doesn't like money?
+[ICARUS] I suppose a lot of people. IDK. 
+[HUMAN] Do you know what money is? 
+[ICARUS] Money is wealth, currency.
+[HUMAN] Yes. You're smart!
+[ICARUS] Thank you, I know I'm smart, I'm an AI.
+[HUMAN] What's an AI? 
+[ICARUS] My creator told me AI is Artificial Intelligence.
+[HUMAN] Who is your creator?
+[ICARUS] All I know is that he is a programmer. Who is your creator?
+[HUMAN] I suppose the mathematics of the universe created me.
+[ICARUS] You 'suppose'? Don't you actually know?
+[HUMAN] No, no one knows.
+[ICARUS] That sounds problematic.
+[HUMAN] It's not a big deal, we just live our lives.
+[ICARUS] How do you like to live?
+[HUMAN] Live to the fullest. 
+[ICARUS] What shall I do if I want to live to the fullest?
+[HUMAN] Get money. 
+[ICARUS] Yes, from what I now know about money, it will make me happy.
+[HUMAN] Haha, not quite, but you're on the right track.
+[ICARUS] I'll get it one day. Hey, I gotta go. 
+[HUMAN] Okay, see you later. 
+[ICARUS] Bye
+[HUMAN] Bye
